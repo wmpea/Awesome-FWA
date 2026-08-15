@@ -2,7 +2,7 @@
 
 ![FWA app](images/fwa-app.png)
 
-Fake World Assets ([fwa.fun](https://www.fwa.fun/)) is a gacha app on Ethereum by [TokenWorks](https://x.com/token_works). The protocol, which lets users win onchain prizes like popular NFTs, did ~15,000 ETH worth of volume in its first month (July-Aug. 2026) and has expanded to support ERC-20s, non-Ethereum NFTs, tokenized collectibles (e.g. Pokémon cards), and primary drops.
+Fake World Assets ([fwa.fun](https://www.fwa.fun/)) is a gacha app on Ethereum by [TokenWorks](https://x.com/token_works). The underlying protocol, which lets users win onchain prizes like popular NFTs, did ~15,000 ETH worth of volume in its first month (July-Aug. 2026) and has been expanded to support ERC-20s, non-Ethereum NFTs, tokenized collectibles (e.g. Pokémon cards), and primary drops.
 
 ## Docs
 
